@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhivoid&label=Profile%20views&color=0e75b6&style=flat" alt="abhivoid" /> </p>
 
-- 💬 Ask me about **DSA , OPENCV ,**
+- 💬 Ask me about **DSA , Computer Networks , WEBFLOW **
 
 - 📫 How to reach me **abhishekgpt0804@gmail.com**
 
