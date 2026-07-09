@@ -1,103 +1,74 @@
-<h1 align="center">Hi 👋, I'm Abhishek Gupta</h1>
-<h3 align="center">Software Developer @ Kickdrum | Cloud, Enterprise Auth & AI Systems</h3>
+<h1 align="center">Abhishek Gupta</h1>
+<h3 align="center">Software Engineer @ Kickdrum | Cloud, Identity & AI Orchestration</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhivoid&label=Profile%20views&color=0e75b6&style=flat-square" alt="abhivoid" />
+  <a href="https://linkedin.com/in/abhishek-gupta-54586321b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.leetcode.com/abhivoid"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
+  <a href="https://kaggle.com/abhivoid"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"/></a>
+  <a href="mailto:abhishekgpt0804@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
 
-### 🚀 About Me
+### 👨‍💻 Engineering Profile
 
-I am a **Software Developer** with a track record of taking complex, ambiguous problem statements from architecture to production-grade deployment. From starting as an intern to leading major enterprise workstreams, I specialize in building scalable backends, designing robust identity/migration systems, and implementing AI-driven developer productivity tooling.
+I am a backend-heavy **Software Engineer** who thrives on ambiguity. Over the last two years, I transitioned from shipping isolated features to owning end-to-end enterprise workstreams—architecting identity systems, building AI-powered developer tooling from scratch, and modernizing cloud infrastructure.
 
-- 🏗️ **Current Focus:** Enterprise-scale IAM migrations, VS Code Extension architecture, and AI Evaluation pipelines.
-- 🎓 **Mentorship:** Data Engineering & AI Track lead instructor at Kickdrum University.
-- 💬 Ask me about **Auth0/SSO Architecture, LLM Integrations, Spring Boot, Go, and React**.
-- 📫 Reach me at: **abhishekgpt0804@gmail.com**
+- 🏗️ **Currently Building:** Enterprise Auth0 migrations, SSO architectures, and custom VS Code Extensions.
+- 🎓 **Mentorship:** Lead instructor for Data Engineering & AI cohorts at Kickdrum University.
+- ⚡ **Philosophy:** If a workflow is manual, write a Go script. If a UI causes user friction, re-engineer the flow.
 
 ---
 
-### 💻 Technical Core
+### 🛠️ Tech Arsenal
+
+<p align="center">
+  <!-- These icons are highly stable and render cleanly on both light/dark mode -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,go,nodejs,ts,react,redux,aws,vscode,git,mysql,postman&perline=12" alt="Tech Stack" />
+  </a>
+</p>
+
+---
+
+### 🚀 Highlight Reel & Impact
 
 <table>
   <tr>
-    <td valign="top" width="25%"><strong>Backend</strong></td>
-    <td valign="top" width="25%"><strong>Frontend & Tooling</strong></td>
-    <td valign="top" width="25%"><strong>Cloud & Auth</strong></td>
-    <td valign="top" width="25%"><strong>AI Engineering</strong></td>
+    <td width="50%" valign="top">
+      <b>🔐 Identity Management & Auth0</b><br/>
+      Orchestrated an end-to-end Auth0 enterprise migration. Built custom SAML/SSO architecture, automated user provisioning, and delivered overnight emergency infrastructure hotfixes to meet strict customer deadlines.
+    </td>
+    <td width="50%" valign="top">
+      <b>🤖 AI & Developer Tooling</b><br/>
+      Architected and shipped a production VS Code Extension from scratch. Integrated LLM workflows for Ground Truth generation and AI evaluation, massively accelerating developer workflows.
+    </td>
   </tr>
   <tr>
-    <td valign="top">
-      • Java / Spring Boot<br>
-      • Node.js / Express.js<br>
-      • Go / Shell Scripting<br>
-      • REST APIs & RBAC
+    <td width="50%" valign="top">
+      <b>☁️ Cloud Orchestration (Go / AWS)</b><br/>
+      Replaced sluggish, manual cloud-migration workflows with a lightning-fast Go orchestration layer, handling thousands of background validation jobs and automated data state transfers.
     </td>
-    <td valign="top">
-      • React / TypeScript<br>
-      • Redux / Material UI<br>
-      • VS Code Extensions<br>
-      • Design Systems
-    </td>
-    <td valign="top">
-      • AWS (S3, Cloud Infra)<br>
-      • Auth0 / SAML / SSO<br>
-      • Migration Runbooks<br>
-      • Infrastructure Auto.
-    </td>
-    <td valign="top">
-      • LLM Integrations<br>
-      • Ground Truth Gen<br>
-      • AI Eval Workflows<br>
-      • Prompt Engineering
+    <td width="50%" valign="top">
+      <b>📊 UI & Design Systems</b><br/>
+      Contributed heavily to organization-wide React/TS design systems. Re-engineered product mechanics to turn user friction points into actionable, disabled UI states with rich context.
     </td>
   </tr>
 </table>
 
 ---
 
-### ⚡ Professional Track Record
+### 📈 GitHub Activity
 
-*   **Enterprise IAM Migration:** Orchestrated end-to-end Auth0 POC and migration strategy (SSO, SAML, User Provisioning) for large-scale customer readiness under critical deadlines.
-*   **AI Tooling from Scratch:** Researched and independently built a production-ready VS Code Extension for a Developer Persona experience, alongside automated Ground Truth validation engines.
-*   **Automation & Scripting:** Designed Go-based orchestration layers to automate complex cloud infrastructure and storage background jobs.
-*   **Product-First Mindset:** Transitioned features from raw specifications to high-usability UI elements, maximizing user retention and minimizing configuration friction.
-
----
-
-### 🤝 Connect with Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/abhishek-gupta-54586321b" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek-gupta-54586321b" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/abhivoid" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhivoid" height="30" width="40" /></a>
-  <a href="https://kaggle.com/abhivoid" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="abhivoid" height="30" width="40" /></a>
-  <a href="https://instagram.com/abhi__0804" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhi__0804" height="30" width="40" /></a>
+<!-- 
+Note: External stat cards (Vercel) frequently break due to GitHub caching. 
+If they fail to load, this section will gracefully degrade rather than showing broken images.
+-->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhivoid&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" width="48%" alt="GitHub Stats" onerror="this.style.display='none'"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhivoid&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" width="48%" alt="Top Languages" onerror="this.style.display='none'"/>
 </p>
 
----
-
-### 🛠️ Languages & Tools Icons
-
-<p align="left">
-  <!-- Languages -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>&nbsp;
-  
-  <!-- Frameworks & UI -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="mui" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>&nbsp;
-
-  <!-- DevOps & Tools -->
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abhivoid&label=Profile%20Views&color=38BDF8&style=for-the-badge" alt="Profile Views" />
 </p>
