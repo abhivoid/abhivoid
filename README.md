@@ -57,16 +57,11 @@ I am a backend-heavy **Software Engineer** who thrives on ambiguity. Over the la
 </table>
 
 ---
-
 ### 📈 GitHub Activity
 
-<!-- 
-Note: External stat cards (Vercel) frequently break due to GitHub caching. 
-If they fail to load, this section will gracefully degrade rather than showing broken images.
--->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhivoid&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" width="48%" alt="GitHub Stats" onerror="this.style.display='none'"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhivoid&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" width="48%" alt="Top Languages" onerror="this.style.display='none'"/>
+  <!-- Replaced the broken Vercel API with the highly stable Heroku Streak API -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhivoid&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </p>
 
 <p align="center">
